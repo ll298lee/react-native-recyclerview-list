@@ -1,6 +1,6 @@
 package com.github.godness84.RNRecyclerViewList;
 
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
  * Implementation of {@link RecyclerView.ItemAnimator} that disables all default animations.
